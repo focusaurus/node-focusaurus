@@ -1,0 +1,11 @@
+{
+  "name": "focusaurus",
+  "version": "1.0.0",
+  "description": "Reserving my npm username as a package name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focusaurus/node-focusaurus.git"
+  },
+  "author": "Peter Lyons <pete@peterlyons.com> (http://peterlyons.com/)",
+  "license": "MIT"
+}
